@@ -1,0 +1,9 @@
+name = "my-static-site"
+pages_build_output_dir="./functions"
+
+kv_namespaces = [
+    { binding = "NOTIFICATIONS", id = "95919a51c2f64344a68ffb7642f539a1" }
+]
+
+[ai]
+binding = "AI"
